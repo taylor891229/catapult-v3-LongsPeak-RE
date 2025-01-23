@@ -254,6 +254,8 @@ There are some online resources mentioning these boards or the previous generati
   - https://www.nextplatform.com/2020/02/03/vertical-integration-is-eating-the-datacenter-part-two/
   - https://indico.cern.ch/event/822126/contributions/3500184/attachments/1906428/3148591/Catapult_FastML_Fermilab_2019.pdf
   - http://files.opencompute.org/oc/public.php?service=files&t=5803e581b55e90e51669410559b91169&download&path=/SmartNIC%20OCP%202016.pdf
+- smartnic research
+  - https://www.devops.lol/used-fpga-boards/
 
 ## Disclaimer
 All trademarks mentioned in this project are the property of their respective owners.  
